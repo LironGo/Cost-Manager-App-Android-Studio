@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828664620141",
+    "project_id": "cost-manager-data-base",
+    "storage_bucket": "cost-manager-data-base.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828664620141:android:ba5faa1d2294cf6619cb64",
+        "android_client_info": {
+          "package_name": "com.example.costmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6PtTzdy4SuO-k3GyxR0zntPdjHAZeMlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
